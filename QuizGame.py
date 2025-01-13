@@ -1,3 +1,5 @@
+import random
+
 def display_menu():
     """
     Display the main menu and return the user's choice.
@@ -57,6 +59,8 @@ def play_quiz(questions):
 
     print("\nStarting the Quiz!")
     score = 0
+
+    random.shuffle(questions)
 
     for i, q in enumerate(questions):
         print(f"\nQuestion {i + 1}: {q['question']}")
