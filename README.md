@@ -20,7 +20,7 @@ Then install and run the GameQuiz python file on your cmd
 
 * **Alan Casasnovas** - *Initial work* - [Alan-Casasnovas0](https://github.com/Alan-Casasnovas0)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors]([https://github.com/Alan-Casasnovas0/QuizGame-AlanCasasnovas-CDOF1/graphs/contributors]) who participated in this project.
 
 ## License
 
